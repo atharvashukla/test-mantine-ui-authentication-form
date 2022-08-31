@@ -29,3 +29,12 @@ export default function App() {
 ```
 
 Copy the code for the "Authentication form" example into the body of the MantineProvider. [Site link](https://ui.mantine.dev/category/authentication#authentication-form), [github link](https://github.com/mantinedev/ui.mantine.dev/blob/master/components/AuthenticationForm/AuthenticationForm.tsx).
+
+
+Other edits:
+- add @mantine/ds
+- add @tabler/icons
+- Add social buttons from ui.mantine.dev
+- Add GoogleIcon.tsx and FacebookIcon.tsx
+- Remove index.css, and other unused template files.
+
