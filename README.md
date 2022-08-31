@@ -1,5 +1,9 @@
 # test-mantine-ui-authentication-form
 
+React + Mantine auth form
+
+---
+
 Create a react app with typescript support on the Desktop
 
 ```
