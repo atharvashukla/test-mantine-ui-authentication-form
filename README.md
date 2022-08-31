@@ -37,4 +37,5 @@ Other edits:
 - Add social buttons from ui.mantine.dev
 - Add GoogleIcon.tsx and FacebookIcon.tsx
 - Remove index.css, and other unused template files.
+- Insert `Paper` into a `<Container size="sm" p="xl">` for formatting.
 
